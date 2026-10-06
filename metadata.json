@@ -1,0 +1,6 @@
+{
+  "name": "Aji & Sumisha — Modern Wedding Celebration",
+  "description": "An elegant, minimalist, and modern wedding celebration website for Aji & Sumisha featuring their journey, event itinerary, venue guide, photo gallery, and interactive RSVP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

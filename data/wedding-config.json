@@ -1,0 +1,173 @@
+{
+  "hero": {
+    "groomName": "Aji",
+    "brideName": "Sumisha",
+    "tagline": "A celebration of love, partnership, and the quiet beauty of forever.",
+    "subtag": "We are getting married",
+    "weddingDate": "2026-11-14",
+    "weddingTime": "16:30",
+    "dateDisplay": "Saturday, November 14, 2026",
+    "timeDisplay": "4:30 PM PST",
+    "locationDisplay": "High Grove Estate, Sonoma",
+    "heroImage": "/src/assets/images/wedding_hero_couple_1791278997692.jpg",
+    "countdownEnabled": true
+  },
+  "story": {
+    "sectionTag": "Our Journey Together",
+    "title": "A Story Written in Shared Moments",
+    "leadText": "We believe that the deepest connections are formed not by grand spectacles, but through steady understanding, gentle humor, and an unwavering commitment to grow alongside one another.",
+    "paragraphs": [
+      "Aji and Sumisha first crossed paths over a casual exchange about minimalist architecture and jazz in 2019. What began as an afternoon coffee quickly expanded into hours of spontaneous debate, shared curiosities, and an effortless sense of ease.",
+      "Through seven years of shared dreams, long coast road trips, culinary experiments, and quiet Sunday mornings, we discovered a partnership that feels both grounding and liberating."
+    ],
+    "quote": "Finding home not in a place, but in a person.",
+    "storyImage": "/src/assets/images/couple_story_portrait_1791279010681.jpg",
+    "milestones": [
+      {
+        "id": "m1",
+        "number": "01",
+        "label": "First Met",
+        "title": "Autumn 2019",
+        "desc": "A quiet coffee shop in the historic quarter."
+      },
+      {
+        "id": "m2",
+        "number": "02",
+        "label": "The First Journey",
+        "title": "Spring 2021",
+        "desc": "Pacific Coast highway road trip under open skies."
+      },
+      {
+        "id": "m3",
+        "number": "03",
+        "label": "The Lifelong Promise",
+        "title": "Winter 2025",
+        "desc": "A private sunset pledge on the Sonoma headlands."
+      }
+    ]
+  },
+  "itinerary": {
+    "sectionTag": "Celebration Schedule",
+    "title": "The Order of Events",
+    "subtitle": "A relaxed evening dedicated to togetherness, warmth, curated cuisine, and joyous dancing.",
+    "events": [
+      {
+        "id": "e1",
+        "time": "4:30 PM",
+        "title": "Guest Arrival & Welcome Refreshments",
+        "desc": "Gather on the Olive Grove Terrace for artisanal spritzes, sparkling water, and acoustic background strings.",
+        "location": "Olive Grove Terrace",
+        "icon": "GlassWater"
+      },
+      {
+        "id": "e2",
+        "time": "5:15 PM",
+        "title": "The Secular Union & Vow Exchange",
+        "desc": "An intimate, modern secular ceremony focusing on love, mutual commitments, and shared poetry.",
+        "location": "The Glasshouse Pavilion",
+        "icon": "Heart"
+      },
+      {
+        "id": "e3",
+        "time": "6:00 PM",
+        "title": "Sunset Cocktail Hour & Hors d’Oeuvres",
+        "desc": "Craft cocktails, regional wine selections, and light seasonal bites overlooking the valley at dusk.",
+        "location": "Veranda & Lawn",
+        "icon": "Sparkles"
+      },
+      {
+        "id": "e4",
+        "time": "7:30 PM",
+        "title": "Celebration Dinner & Heartfelt Toasts",
+        "desc": "A thoughtfully curated multi-course seasonal feast served family-style with organic wine pairings.",
+        "location": "The Main Glass Dining Hall",
+        "icon": "Clock"
+      },
+      {
+        "id": "e5",
+        "time": "9:00 PM",
+        "title": "Celebration Party, Music & Dancing",
+        "desc": "Dancing under the stars, decadent dessert buffet, and late-night artisan espresso bar.",
+        "location": "Grand Ballroom & Courtyard",
+        "icon": "Sparkles"
+      }
+    ],
+    "notes": [
+      {
+        "title": "Dress Code",
+        "desc": "Modern Cocktail / Formal in neutral, muted earthy tones."
+      },
+      {
+        "title": "Atmosphere",
+        "desc": "Secular, warm, and heartfelt celebration of love and community."
+      },
+      {
+        "title": "Transportation",
+        "desc": "Complimentary shuttles from downtown Sonoma hotels starting at 3:45 PM."
+      }
+    ]
+  },
+  "venue": {
+    "sectionTag": "Destination & Setting",
+    "venueName": "The Glasshouse at High Grove",
+    "tagline": "Sonoma Valley Sanctuary",
+    "description": "Perched on a gentle ridge overlooking rolling vineyards, the Glasshouse pairs clean architectural lines with expansive glass doors that open directly to the evening breeze and starlit horizons.",
+    "address": "1200 Vista Crest Way, Sonoma Ridge, CA 95476",
+    "valet": "Complimentary on-site valet parking available upon arrival at the main gates.",
+    "shuttle": "Departs every 20 minutes from the Sonoma Mission Inn between 3:45 PM and 11:30 PM.",
+    "airports": "SFO (1 hr 15 min), OAK (1 hr), or STS Santa Rosa (35 min).",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d100346.90693557997!2d-122.51865449999999!3d38.2918591!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085aa4b47eb0821%3A0x600c0f8626600c0!2sSonoma%2C%20CA!5e0!3m2!1sen!2sus!4v1700000000000!5m2!1sen!2sus",
+    "googleMapsUrl": "https://maps.google.com/?q=Sonoma+Valley+California"
+  },
+  "gallery": {
+    "sectionTag": "Visual Moments",
+    "title": "Photographic Memories",
+    "subtitle": "Glimpses of quiet smiles, contemporary light, and our shared path.",
+    "items": [
+      {
+        "id": "g1",
+        "src": "/src/assets/images/wedding_hero_couple_1791278997692.jpg",
+        "category": "portraits",
+        "title": "Golden Hour on the Terrace",
+        "caption": "A serene embrace during sunset at High Grove.",
+        "alt": "Aji and Sumisha on a scenic modernist terrace"
+      },
+      {
+        "id": "g2",
+        "src": "/src/assets/images/couple_story_portrait_1791279010681.jpg",
+        "category": "moments",
+        "title": "Laughter in the Courtyard",
+        "caption": "Unrehearsed joy and quiet smiles in the garden.",
+        "alt": "Couple laughing affectionately in a museum courtyard"
+      },
+      {
+        "id": "g3",
+        "src": "/src/assets/images/gallery_moments_portrait_1791279024238.jpg",
+        "category": "portraits",
+        "title": "Serenity & Quiet Promises",
+        "caption": "Understated closeness captured in soft natural daylight.",
+        "alt": "Intimate fine art portrait of Aji and Sumisha"
+      },
+      {
+        "id": "g4",
+        "src": "/src/assets/images/gallery_venue_setting_1791279040592.jpg",
+        "category": "setting",
+        "title": "The Glasshouse Tablescape",
+        "caption": "Curated botanicals and candlelit minimalism for the celebration dinner.",
+        "alt": "Modern minimalist wedding dinner setting with warm candles"
+      }
+    ]
+  },
+  "rsvp": {
+    "sectionTag": "Kindly Respond",
+    "title": "Join in the Celebration",
+    "subtitle": "Please let us know if you will be able to celebrate with us by October 1, 2026.",
+    "deadline": "October 1, 2026",
+    "allowPlusOne": true,
+    "dietaryEnabled": true
+  },
+  "footer": {
+    "text": "With immense gratitude for your love, friendship, and presence in our lives. We cannot wait to celebrate together.",
+    "subtext": "Designed with elegance, love & simplicity."
+  }
+}

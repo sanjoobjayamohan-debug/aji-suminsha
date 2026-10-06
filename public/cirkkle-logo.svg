@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 160" width="100%" height="100%" fill="currentColor">
+  <!-- Exact Geometric Wordmark for cirkkle -->
+  <g id="cirkkle-logo" font-family="'Plus Jakarta Sans', 'Montserrat', 'Century Gothic', -apple-system, sans-serif" font-weight="700" font-size="124" letter-spacing="-3">
+    <!-- c -->
+    <text x="10" y="118">c</text>
+    <!-- i with perfect circular dot -->
+    <text x="76" y="118">i</text>
+    <!-- r -->
+    <text x="114" y="118">r</text>
+    <!-- k -->
+    <text x="168" y="118">k</text>
+    <!-- k -->
+    <text x="246" y="118">k</text>
+    <!-- l -->
+    <text x="324" y="118">l</text>
+    <!-- e -->
+    <text x="362" y="118">e</text>
+  </g>
+</svg>

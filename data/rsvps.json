@@ -1,0 +1,52 @@
+[
+  {
+    "id": "rsvp-1791279766284",
+    "name": "Dev & Maya",
+    "email": "dev.maya@example.com",
+    "attending": true,
+    "guestCount": 3,
+    "dietary": "Vegetarian",
+    "message": "Can not wait to celebrate with Aji & Sumisha!",
+    "createdAt": "2026-10-06T09:42:46.284Z"
+  },
+  {
+    "id": "rsvp-1791279635483",
+    "name": "Mira Patel",
+    "email": "mira@example.com",
+    "attending": true,
+    "guestCount": 2,
+    "dietary": "Vegan",
+    "message": "So excited to celebrate Aji and Sumisha!",
+    "createdAt": "2026-10-06T09:40:35.484Z"
+  },
+  {
+    "id": "seed-1",
+    "name": "Rohan & Ananya",
+    "email": "rohan.ananya@example.com",
+    "attending": true,
+    "guestCount": 2,
+    "dietary": "Vegetarian",
+    "message": "So incredibly overjoyed for you both! Looking forward to celebrating this beautiful next chapter.",
+    "createdAt": "2026-10-04T09:40:27.847Z"
+  },
+  {
+    "id": "seed-2",
+    "name": "David Miller",
+    "email": "david.m@example.com",
+    "attending": true,
+    "guestCount": 1,
+    "dietary": "None",
+    "message": "Aji & Sumisha, your partnership is an inspiration to all of us. Cannot wait for the evening in Sonoma!",
+    "createdAt": "2026-10-05T09:40:27.848Z"
+  },
+  {
+    "id": "seed-3",
+    "name": "Priya & Siddharth",
+    "email": "priya.s@example.com",
+    "attending": true,
+    "guestCount": 2,
+    "dietary": "Gluten-Free",
+    "message": "Sending all our love and warmest wishes. Counting down the days to celebrate together!",
+    "createdAt": "2026-10-06T03:40:27.848Z"
+  }
+]
